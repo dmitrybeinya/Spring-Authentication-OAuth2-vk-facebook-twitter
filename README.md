@@ -1,8 +1,5 @@
-Spring Social Showcase
-======================
 This sample app demonstrates many of the capabilities of the Spring Social project, including:
-* Connect to Facebook
-* Connect to Twitter
+* Sign in using VK
 * Sign in using Facebook
 * Sign in using Twitter
 
@@ -23,6 +20,4 @@ To run the application with Maven, you must have Maven (3.0.x or higher recommen
 
 ```sh
 $ mvn tomcat:run
-```
 
-Discuss at forum.springsource.org and collaborate with the development team at jira.springframework.org/browse/SOCIAL.
